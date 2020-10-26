@@ -5,7 +5,7 @@ Menu Class: Appetizers
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.
 
-Recipe by ACC
+Recipe by A. Ch
 
 Servings: 45
 
@@ -41,5 +41,5 @@ Allergy warning:
 2. Cheese
 3. Black olives
 
-Download this recipe from www.bitcoinwisdomforbusypeople.com
+Download this recipe from https://www.bitcoinwisdomforbusypeople.com
 
